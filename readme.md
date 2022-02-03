@@ -4,7 +4,8 @@ Create `.env` file in the root of project with the following content :
 
 ```shell
 API_SERVER_URL=YOURSERVERURL
-VK_API_TOKEN=YOURVKAPITOKEN
+TG_API_TOKEN=YOURTGAPITOKEN
+IMGBB_TOKEN=YOURIMGBBAPITOKEN
 ```
 
 ## Installation
